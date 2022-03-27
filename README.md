@@ -31,7 +31,7 @@ Submitted for ICIP 2022.
 
 5. Install dependencies
    ```
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 ## Training
