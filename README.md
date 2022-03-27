@@ -10,35 +10,43 @@ Submitted for ICIP 2022.
 
 ## Environment
 1. Clone this repository
-
-   ```git clone https://github.com/bjc1999/CyEDA.git```
+   ```
+   git clone https://github.com/bjc1999/CyEDA.git
+   ```
 
 2. Access the repository folder
-   
-   ```cd CyEDA```
+   ```
+   cd CyEDA
+   ```
 
 3. Create virtual environment **python 3.7 recommended**
-   
-   ```python -m virtualenv env```
+   ```
+   python -m virtualenv env
+   ```
 
 4. Activate the environment
-   
-   ```env/Scripts/activate```
+   ```
+   env/Scripts/activate
+   ```
 
 5. Install dependencies
-   
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Training
 - Run `train.sh` script
-  
-  ```bash train.sh```
+  ```
+  bash train.sh
+  ```
 
 - Execute `train.py` file within environment
-  
-  ```python train.py [--parameters]```
+  ```
+  python train.py [--parameters]
+  ```
 
 ## Testing
 - Execute `predict.py` file within environment
-  
-  ```python predict.py [--parameters]```
+  ```
+  python predict.py [--parameters]
+  ```
