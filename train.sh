@@ -1,5 +1,5 @@
 python train.py \
---dataroot ../bdd100k_dataset/large \
+--dataroot ../bdd100k_dataset \
 --checkpoints_dir ./checkpoints \
 --no_dropout \
 --name experimentA \
@@ -8,8 +8,8 @@ python train.py \
 --which_model_netG sid_unet_resize \
 --which_model_netD no_norm \
 --save_epoch_freq 1 \
---niter 100 \
---niter_decay 100 \
+--niter 20 \
+--niter_decay 20 \
 --pool_size 50 \
 --n_layers_D 5 \
 --loadSize 286 \
