@@ -6,6 +6,8 @@ Submitted for ICIP 2022.
 
 ## Architecture
 ![overview](imgs/edge_loss.png "overview")
+
+
 ![gan](imgs/mask_unet.png "gan")
 
 ## Environment
