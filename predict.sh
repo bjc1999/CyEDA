@@ -1,0 +1,21 @@
+python predict.py \
+--dataroot ../bdd100k \
+--checkpoints_dir ./checkpoints \
+--no_dropout \
+--name test \
+--model cycle_gan \
+--dataset_mode unaligned \
+--which_model_netG sid_unet_resize \
+--which_model_netD no_norm \
+--which_direction AtoB \
+--n_layers_D 5 \
+--loadSize 286 \
+--fineSize 256 \
+--resize_or_crop resize \
+--batchSize 1 \
+--no_flip \
+--tanh \
+--gpu_ids 0 \
+--n_mask 3 \
+--phase val \
+--which_epoch bdd100k

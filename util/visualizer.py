@@ -66,6 +66,6 @@ class Visualizer():
         for label, image_numpy in visuals.items():
             if label.startswith('fake_B'):
                 image_name = '%s.png' % (name)
-                save_path = os.path.join('../bdd100k_dataset/detection/valAB', image_name)
+                save_path = os.path.join('../bdd100k/valAB', image_name)
                 util.save_image(image_numpy, save_path)
 
