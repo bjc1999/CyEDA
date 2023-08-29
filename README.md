@@ -1,5 +1,10 @@
-# CyEDA
-Submitted for ICIP 2022.
+# CyEDA: Cycle-object Edge Consistency Domain Adaptation
+
+[ICIP](https://ieeexplore.ieee.org/document/9897493)
+
+### Official pytorch implementation of the paper: "CyEDA: Cycle-object Edge Consistency Domain Adaptation"
+
+#### ICIP 2022
 
 ## Results
 ![result](imgs/val_result.png "result")
