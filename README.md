@@ -58,20 +58,18 @@
 
 ## Citation
 If you find this work useful for your research, please cite
-```
+```bibtex
 @INPROCEEDINGS{9897493,
-  author={Beh, Jing Chong and Woh Ng, Kam and Kew, Jie Long and Lin, Che-Tsung and Chan, Chee Seng and Lai, Shang-Hong and Zach, Christopher},
-  booktitle={2022 IEEE International Conference on Image Processing (ICIP)}, 
-  title={CyEDA: Cycle-Object Edge Consistency Domain Adaptation}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={2986-2990},
-  doi={10.1109/ICIP46576.2022.9897493}}
+  author = {Beh, Jing Chong and Woh Ng, Kam and Kew, Jie Long and Lin, Che-Tsung and Chan, Chee Seng and Lai, Shang-Hong and Zach, Christopher},
+  booktitle = {2022 IEEE International Conference on Image Processing (ICIP)}, 
+  title = {CyEDA: Cycle-Object Edge Consistency Domain Adaptation}, 
+  year = {2022},
+  pages = {2986-2990},
+  doi = {10.1109/ICIP46576.2022.9897493}}
 ```
 
 ## Feedback
-Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to `cjbeh1999@gmail.com` or `cs.chan@um.edu.my`.
+Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to `cjbeh1999 at gmail.com` or `cs.chan at um.edu.my`.
 
 ## License and Copyright
 The project is open source under BSD-3 license (see the `LICENSE` file).
