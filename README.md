@@ -4,6 +4,8 @@
 
 #### ICIP 2022 | [Paper](https://ieeexplore.ieee.org/document/9897493) 
 
+Released 29 August 2023
+
 ## Results
 ![result](imgs/val_result.png "result")
 
