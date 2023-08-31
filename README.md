@@ -62,7 +62,7 @@ Released 29 August 2023
 If you find this work useful for your research, please cite
 ```bibtex
 @INPROCEEDINGS{9897493,
-  author = {Beh, Jing Chong and Woh Ng, Kam and Kew, Jie Long and Lin, Che-Tsung and Chan, Chee Seng and Lai, Shang-Hong and Zach, Christopher},
+  author = {Beh, Jing Chong and Ng, Kam Woh and Kew, Jie Long and Lin, Che-Tsung and Chan, Chee Seng and Lai, Shang-Hong and Zach, Christopher},
   booktitle = {2022 IEEE International Conference on Image Processing (ICIP)}, 
   title = {CyEDA: Cycle-Object Edge Consistency Domain Adaptation}, 
   year = {2022},
